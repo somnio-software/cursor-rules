@@ -19,8 +19,6 @@ Whether you're working with Flutter or NestJS, these rules are here to make your
 - Official Cursor rules documentation:  
   [https://docs.cursor.com/context/rules](https://docs.cursor.com/context/rules)
 
-- Community-curated list of great Cursor rules:  
-  [https://github.com/PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
 
 - AI Prompts Library: [https://www.jointakeoff.com/prompts](https://www.jointakeoff.com/prompts)
 

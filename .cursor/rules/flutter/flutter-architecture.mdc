@@ -1,13 +1,8 @@
 ---
-description: 
-globs: **/*.dart
+description: General architecture guidelines when using Flutter.
 alwaysApply: false
 ---
----
-description: Flutter layered architecture best practices and patterns for scalable, maintainable apps
-globs: **/*.dart
-alwaysApply: false
----
+
 # Flutter Layered Architecture
 
 How to build highly scalable, maintainable, and testable Flutter apps using layered architecture. This architecture consists of four layers with clear boundaries and single responsibilities.

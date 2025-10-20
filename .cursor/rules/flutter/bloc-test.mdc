@@ -1,7 +1,6 @@
 ---
-description: 
-globs: 
 alwaysApply: false
+globs: **/*bloc_test.dart
 ---
 # Bloc Testing Standards
 

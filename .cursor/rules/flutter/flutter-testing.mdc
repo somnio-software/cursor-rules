@@ -1,11 +1,6 @@
 ---
 description: 
-globs: **/*_test.dart,**/test/**/*.dart
-alwaysApply: false
----
----
-description: Flutter layered architecture best practices and patterns for scalable, maintainable apps
-globs: ["**/*_test.dart", "**/test/**/*.dart"]
+globs: **/*_test.dart, **/test/**/*.dart
 alwaysApply: false
 ---
 # Flutter/Dart Testing Best Practices
