@@ -30,7 +30,7 @@ Comprehensive rules for building robust NestJS backends with TypeScript.
 | `nestjs-repository-patterns.mdc` | `**/*.repository.ts` | Repository pattern: parameterized methods, select objects, soft deletes |
 | `nestjs-testing-unit.mdc` | `**/*.spec.ts` | Unit test patterns: mocking, structure, assertions |
 | `nestjs-testing-integration.mdc` | `**/*.integration.spec.ts` | Integration test patterns: database, cleanup, isolation |
-| `nestjs-error-handling.mdc` | `**/*exception*.ts`, `**/*error*.ts` | Exception filters, validation errors, error enums/maps |
+| `nestjs-error-handling.mdc` | `**/*exception*.ts`, `**/*error*.ts`, `**/*filter*.ts` | Exception filters, validation errors, error enums/maps |
 | `nestjs-module-structure.mdc` | `**/*.module.ts` | Module organization: imports, exports, providers, feature structure |
 | `nestjs-typescript.mdc` | `src/modules/**/*.ts` | TypeScript guidelines, naming conventions, NestJS principles |
 

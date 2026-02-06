@@ -237,7 +237,7 @@ describe('Users API (Integration)', () => {
 
     afterEach(async () => {
       await db.users.deleteMany({
-        where: { email: { contains: `list-` } },
+        where: { email: { contains: `list-${testId}` } },
       });
     });
 

@@ -361,7 +361,7 @@ export class CreateCompanyRequestDto {
 
   // Single nested object
   @ApiProperty({ type: AddressRequestDto })
-  @ValidateNested()
+  @ValidateNested()  // No { each: true } needed for single objects
   @Type(() => AddressRequestDto)
   readonly address: AddressRequestDto;
 
